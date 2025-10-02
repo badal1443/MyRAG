@@ -789,12 +789,4 @@
         "text": "ML models being trained. Initial recommendation algorithms showing promising results."
       }
     ]
-  },
-  {
-    "key": "RDE-48",
-    "issueType": "Feature",
-    "summary": "Integration Platform",
-    "description": "Comprehensive integration platform supporting REST APIs, webhooks, third-party service connectors, and custom integration development tools for seamless data exchange.",
-    "status": "Development in Progress",
-    "fixVersion": "v2.5.0",
-    "productionReleaseDate": "
+  }

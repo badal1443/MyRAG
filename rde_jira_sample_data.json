@@ -1,0 +1,814 @@
+[
+  {
+    "key": "RDE-1",
+    "issueType": "Story",
+    "summary": "Implement user authentication system",
+    "description": "Create a secure user authentication system with login, logout, and password reset functionality. This should include JWT token management and session handling.",
+    "status": "Closed",
+    "fixVersion": "v2.1.0",
+    "productionReleaseDate": "2024-12-10",
+    "comments": [
+      {
+        "author": "integration.specialist@company.com",
+        "date": "2024-10-19",
+        "text": "Core integration framework 70% complete. Testing with major third-party services."
+      }
+    ]
+  },
+  {
+    "key": "RDE-49",
+    "issueType": "Feature",
+    "summary": "Content Management System",
+    "description": "Full-featured content management system with rich text editing, media management, version control, collaborative editing, and multi-channel publishing capabilities.",
+    "status": "QA Completed",
+    "fixVersion": "v2.2.0",
+    "productionReleaseDate": "2024-09-12",
+    "comments": [
+      {
+        "author": "content.manager@company.com",
+        "date": "2024-09-05",
+        "text": "CMS functionality complete. Content creation workflow is intuitive and efficient."
+      },
+      {
+        "author": "qa.tester@company.com",
+        "date": "2024-09-10",
+        "text": "All CMS features tested across browsers. Ready for production release."
+      }
+    ]
+  },
+  {
+    "key": "RDE-50",
+    "issueType": "Feature",
+    "summary": "Performance Monitoring and Optimization Suite",
+    "description": "Comprehensive performance monitoring system including real-time metrics, performance profiling, automated optimization suggestions, and capacity planning tools.",
+    "status": "In Production",
+    "fixVersion": "v2.1.0",
+    "productionReleaseDate": "2024-08-15",
+    "comments": [
+      {
+        "author": "devops.engineer@company.com",
+        "date": "2024-08-12",
+        "text": "Performance monitoring active. Already identified several optimization opportunities."
+      },
+      {
+        "author": "sre.lead@company.com",
+        "date": "2024-08-20",
+        "text": "System performance improved by 25% since monitoring implementation."
+      }
+    ]
+  }
+]2024-08-15",
+    "comments": [
+      {
+        "author": "john.smith@company.com",
+        "date": "2024-07-20",
+        "text": "Initial implementation completed. Ready for testing."
+      },
+      {
+        "author": "sarah.jones@company.com",
+        "date": "2024-08-10",
+        "text": "QA testing passed. Ready for production deployment."
+      }
+    ]
+  },
+  {
+    "key": "RDE-2",
+    "issueType": "Story",
+    "summary": "Add dashboard analytics widgets",
+    "description": "Implement interactive dashboard widgets showing key performance metrics including user engagement, conversion rates, and system performance indicators.",
+    "status": "In Production",
+    "fixVersion": "v2.2.0",
+    "productionReleaseDate": "2024-09-12",
+    "comments": [
+      {
+        "author": "mike.brown@company.com",
+        "date": "2024-09-05",
+        "text": "Widget framework completed. All metrics are displaying correctly."
+      }
+    ]
+  },
+  {
+    "key": "RDE-3",
+    "issueType": "Story",
+    "summary": "Optimize database query performance",
+    "description": "Review and optimize slow-running database queries. Focus on user data retrieval and reporting queries that are taking longer than 2 seconds.",
+    "status": "QA Completed",
+    "fixVersion": "v2.3.0",
+    "productionReleaseDate": "2024-10-20",
+    "comments": [
+      {
+        "author": "alice.wilson@company.com",
+        "date": "2024-10-15",
+        "text": "Query optimization reduced average response time by 60%. QA tests all passing."
+      }
+    ]
+  },
+  {
+    "key": "RDE-4",
+    "issueType": "Story",
+    "summary": "Implement mobile responsive design",
+    "description": "Update the user interface to be fully responsive across mobile devices. Ensure all functionality works on tablets and smartphones.",
+    "status": "Dev Completed",
+    "fixVersion": "v2.3.0",
+    "productionReleaseDate": "2024-10-20",
+    "comments": [
+      {
+        "author": "david.lee@company.com",
+        "date": "2024-10-12",
+        "text": "Mobile responsive implementation complete. Ready for QA testing."
+      }
+    ]
+  },
+  {
+    "key": "RDE-5",
+    "issueType": "Story",
+    "summary": "Add file upload functionality",
+    "description": "Implement secure file upload with support for PDF, DOC, and image files. Include virus scanning and file size validation up to 10MB.",
+    "status": "Development in Progress",
+    "fixVersion": "v2.4.0",
+    "productionReleaseDate": "2024-11-15",
+    "comments": [
+      {
+        "author": "emma.davis@company.com",
+        "date": "2024-10-18",
+        "text": "File upload component 70% complete. Working on virus scanning integration."
+      }
+    ]
+  },
+  {
+    "key": "RDE-6",
+    "issueType": "Story",
+    "summary": "Create user notification system",
+    "description": "Build a comprehensive notification system supporting email and in-app notifications for various user activities and system events.",
+    "status": "Open",
+    "fixVersion": "v2.4.0",
+    "productionReleaseDate": "2024-11-15",
+    "comments": [
+      {
+        "author": "robert.taylor@company.com",
+        "date": "2024-10-10",
+        "text": "Requirements gathered. Starting development next sprint."
+      }
+    ]
+  },
+  {
+    "key": "RDE-7",
+    "issueType": "Story",
+    "summary": "Implement two-factor authentication",
+    "description": "Add 2FA support using TOTP (Time-based One-Time Password) for enhanced security. Support for Google Authenticator and similar apps.",
+    "status": "Open",
+    "fixVersion": "v2.5.0",
+    "productionReleaseDate": "2024-12-10",
+    "comments": []
+  },
+  {
+    "key": "RDE-8",
+    "issueType": "Story",
+    "summary": "Add search functionality to main interface",
+    "description": "Implement full-text search across all user content with filtering and sorting capabilities. Include autocomplete suggestions.",
+    "status": "Development in Progress",
+    "fixVersion": "v2.3.0",
+    "productionReleaseDate": "2024-10-20",
+    "comments": [
+      {
+        "author": "lisa.martinez@company.com",
+        "date": "2024-10-14",
+        "text": "Search indexing complete. Working on frontend search interface."
+      }
+    ]
+  },
+  {
+    "key": "RDE-9",
+    "issueType": "Story",
+    "summary": "Create admin user management panel",
+    "description": "Build administrative interface for managing user accounts, permissions, and system settings. Include user activity monitoring.",
+    "status": "QA Completed",
+    "fixVersion": "v2.2.0",
+    "productionReleaseDate": "2024-09-12",
+    "comments": [
+      {
+        "author": "mark.anderson@company.com",
+        "date": "2024-09-08",
+        "text": "Admin panel complete with all requested features. QA testing passed."
+      }
+    ]
+  },
+  {
+    "key": "RDE-10",
+    "issueType": "Story",
+    "summary": "Implement data export functionality",
+    "description": "Allow users to export their data in CSV and PDF formats. Include options for date range filtering and field selection.",
+    "status": "Closed",
+    "fixVersion": "v2.1.0",
+    "productionReleaseDate": "2024-08-15",
+    "comments": [
+      {
+        "author": "jennifer.white@company.com",
+        "date": "2024-08-12",
+        "text": "Export functionality working perfectly. All test cases passed."
+      }
+    ]
+  },
+  {
+    "key": "RDE-11",
+    "issueType": "Story",
+    "summary": "Add real-time chat support",
+    "description": "Implement live chat functionality for customer support with chat history and file sharing capabilities.",
+    "status": "In Production",
+    "fixVersion": "v2.2.0",
+    "productionReleaseDate": "2024-09-12",
+    "comments": [
+      {
+        "author": "kevin.johnson@company.com",
+        "date": "2024-09-10",
+        "text": "Chat system deployed and receiving positive user feedback."
+      }
+    ]
+  },
+  {
+    "key": "RDE-12",
+    "issueType": "Story",
+    "summary": "Create automated backup system",
+    "description": "Implement automated daily backups of user data and system configurations with retention policy of 30 days.",
+    "status": "Dev Completed",
+    "fixVersion": "v2.3.0",
+    "productionReleaseDate": "2024-10-20",
+    "comments": [
+      {
+        "author": "stephanie.clark@company.com",
+        "date": "2024-10-11",
+        "text": "Backup system implemented. Successfully tested with sample data."
+      }
+    ]
+  },
+  {
+    "key": "RDE-13",
+    "issueType": "Story",
+    "summary": "Implement role-based permissions",
+    "description": "Create granular permission system with different user roles: Admin, Manager, User, and Guest with appropriate access controls.",
+    "status": "Closed",
+    "fixVersion": "v2.1.0",
+    "productionReleaseDate": "2024-08-15",
+    "comments": [
+      {
+        "author": "thomas.harris@company.com",
+        "date": "2024-08-13",
+        "text": "Permission system working as expected. All role validations passing."
+      }
+    ]
+  },
+  {
+    "key": "RDE-14",
+    "issueType": "Story",
+    "summary": "Add email template management",
+    "description": "Create interface for managing email templates used throughout the system with rich text editing and preview functionality.",
+    "status": "Development in Progress",
+    "fixVersion": "v2.4.0",
+    "productionReleaseDate": "2024-11-15",
+    "comments": [
+      {
+        "author": "nancy.lewis@company.com",
+        "date": "2024-10-16",
+        "text": "Template editor 50% complete. Working on preview functionality."
+      }
+    ]
+  },
+  {
+    "key": "RDE-15",
+    "issueType": "Story",
+    "summary": "Implement API rate limiting",
+    "description": "Add rate limiting to all API endpoints to prevent abuse. Configure different limits for authenticated and anonymous users.",
+    "status": "QA Completed",
+    "fixVersion": "v2.3.0",
+    "productionReleaseDate": "2024-10-20",
+    "comments": [
+      {
+        "author": "paul.rodriguez@company.com",
+        "date": "2024-10-17",
+        "text": "Rate limiting implemented and tested. All scenarios working correctly."
+      }
+    ]
+  },
+  {
+    "key": "RDE-16",
+    "issueType": "Story",
+    "summary": "Create system health monitoring dashboard",
+    "description": "Build monitoring dashboard showing system performance metrics, error rates, and uptime statistics with alerting capabilities.",
+    "status": "Open",
+    "fixVersion": "v2.5.0",
+    "productionReleaseDate": "2024-12-10",
+    "comments": [
+      {
+        "author": "maria.gonzalez@company.com",
+        "date": "2024-10-08",
+        "text": "Requirements defined. Waiting for development resources."
+      }
+    ]
+  },
+  {
+    "key": "RDE-17",
+    "issueType": "Story",
+    "summary": "Add multi-language support",
+    "description": "Implement internationalization (i18n) support for English, Spanish, French, and German languages with dynamic language switching.",
+    "status": "Open",
+    "fixVersion": "v2.5.0",
+    "productionReleaseDate": "2024-12-10",
+    "comments": []
+  },
+  {
+    "key": "RDE-18",
+    "issueType": "Story",
+    "summary": "Implement password policy enforcement",
+    "description": "Add configurable password policies including complexity requirements, expiration, and history tracking to enhance security.",
+    "status": "In Production",
+    "fixVersion": "v2.2.0",
+    "productionReleaseDate": "2024-09-12",
+    "comments": [
+      {
+        "author": "daniel.moore@company.com",
+        "date": "2024-09-11",
+        "text": "Password policies active. Users reporting improved security awareness."
+      }
+    ]
+  },
+  {
+    "key": "RDE-19",
+    "issueType": "Story",
+    "summary": "Create automated testing framework",
+    "description": "Set up comprehensive automated testing including unit tests, integration tests, and end-to-end tests with CI/CD integration.",
+    "status": "Development in Progress",
+    "fixVersion": "v2.4.0",
+    "productionReleaseDate": "2024-11-15",
+    "comments": [
+      {
+        "author": "rachel.thompson@company.com",
+        "date": "2024-10-19",
+        "text": "Unit testing framework set up. Working on integration test scenarios."
+      }
+    ]
+  },
+  {
+    "key": "RDE-20",
+    "issueType": "Story",
+    "summary": "Add audit logging system",
+    "description": "Implement comprehensive audit logging for all user actions and system events with searchable log interface for administrators.",
+    "status": "Dev Completed",
+    "fixVersion": "v2.3.0",
+    "productionReleaseDate": "2024-10-20",
+    "comments": [
+      {
+        "author": "christopher.garcia@company.com",
+        "date": "2024-10-13",
+        "text": "Audit logging system complete. All user actions being tracked properly."
+      }
+    ]
+  },
+  {
+    "key": "RDE-21",
+    "issueType": "Story",
+    "summary": "Implement social media login integration",
+    "description": "Add OAuth integration for Google, Facebook, and LinkedIn login options to simplify user registration and authentication.",
+    "status": "Closed",
+    "fixVersion": "v2.2.0",
+    "productionReleaseDate": "2024-09-12",
+    "comments": [
+      {
+        "author": "amanda.miller@company.com",
+        "date": "2024-09-09",
+        "text": "Social login working perfectly. Seeing 40% increase in new registrations."
+      }
+    ]
+  },
+  {
+    "key": "RDE-22",
+    "issueType": "Story",
+    "summary": "Create data visualization charts",
+    "description": "Implement interactive charts and graphs for data visualization using D3.js or similar library with export capabilities.",
+    "status": "QA Completed",
+    "fixVersion": "v2.3.0",
+    "productionReleaseDate": "2024-10-20",
+    "comments": [
+      {
+        "author": "joshua.davis@company.com",
+        "date": "2024-10-16",
+        "text": "Charts rendering correctly across all browsers. QA approved for release."
+      }
+    ]
+  },
+  {
+    "key": "RDE-23",
+    "issueType": "Story",
+    "summary": "Add keyboard shortcuts support",
+    "description": "Implement keyboard shortcuts for common actions to improve user productivity and accessibility compliance.",
+    "status": "Development in Progress",
+    "fixVersion": "v2.4.0",
+    "productionReleaseDate": "2024-11-15",
+    "comments": [
+      {
+        "author": "melissa.wilson@company.com",
+        "date": "2024-10-18",
+        "text": "Basic shortcuts implemented. Working on help documentation."
+      }
+    ]
+  },
+  {
+    "key": "RDE-24",
+    "issueType": "Story",
+    "summary": "Implement caching strategy",
+    "description": "Add Redis caching layer to improve application performance for frequently accessed data and reduce database load.",
+    "status": "Open",
+    "fixVersion": "v2.4.0",
+    "productionReleaseDate": "2024-11-15",
+    "comments": [
+      {
+        "author": "andrew.taylor@company.com",
+        "date": "2024-10-12",
+        "text": "Cache design completed. Ready to start implementation."
+      }
+    ]
+  },
+  {
+    "key": "RDE-25",
+    "issueType": "Story",
+    "summary": "Create user onboarding flow",
+    "description": "Design and implement guided onboarding experience for new users with interactive tutorials and progress tracking.",
+    "status": "Open",
+    "fixVersion": "v2.5.0",
+    "productionReleaseDate": "2024-12-10",
+    "comments": []
+  },
+  {
+    "key": "RDE-26",
+    "issueType": "Story",
+    "summary": "Add dark mode theme support",
+    "description": "Implement dark mode theme option with user preference storage and smooth theme transitions throughout the application.",
+    "status": "In Production",
+    "fixVersion": "v2.2.0",
+    "productionReleaseDate": "2024-09-12",
+    "comments": [
+      {
+        "author": "brittany.anderson@company.com",
+        "date": "2024-09-10",
+        "text": "Dark mode is live! Users loving the new theme option."
+      }
+    ]
+  },
+  {
+    "key": "RDE-27",
+    "issueType": "Story",
+    "summary": "Implement content versioning",
+    "description": "Add version control for user content with ability to view history, compare versions, and restore previous versions.",
+    "status": "Development in Progress",
+    "fixVersion": "v2.4.0",
+    "productionReleaseDate": "2024-11-15",
+    "comments": [
+      {
+        "author": "gary.jackson@company.com",
+        "date": "2024-10-17",
+        "text": "Version storage system complete. Working on diff comparison UI."
+      }
+    ]
+  },
+  {
+    "key": "RDE-28",
+    "issueType": "Story",
+    "summary": "Add email notification preferences",
+    "description": "Create user interface for managing email notification preferences with granular control over different notification types.",
+    "status": "Dev Completed",
+    "fixVersion": "v2.3.0",
+    "productionReleaseDate": "2024-10-20",
+    "comments": [
+      {
+        "author": "heather.white@company.com",
+        "date": "2024-10-14",
+        "text": "Notification preferences system complete. Ready for testing."
+      }
+    ]
+  },
+  {
+    "key": "RDE-29",
+    "issueType": "Story",
+    "summary": "Implement session timeout management",
+    "description": "Add configurable session timeout with warning notifications and automatic session extension for active users.",
+    "status": "Closed",
+    "fixVersion": "v2.2.0",
+    "productionReleaseDate": "2024-09-12",
+    "comments": [
+      {
+        "author": "ian.martinez@company.com",
+        "date": "2024-09-08",
+        "text": "Session management working perfectly. Security team approved implementation."
+      }
+    ]
+  },
+  {
+    "key": "RDE-30",
+    "issueType": "Story",
+    "summary": "Create custom field management",
+    "description": "Allow administrators to create and manage custom fields for different data types with validation rules and display options.",
+    "status": "QA Completed",
+    "fixVersion": "v2.3.0",
+    "productionReleaseDate": "2024-10-20",
+    "comments": [
+      {
+        "author": "jackie.thompson@company.com",
+        "date": "2024-10-15",
+        "text": "Custom fields working correctly. All validation scenarios tested."
+      }
+    ]
+  },
+  {
+    "key": "RDE-31",
+    "issueType": "Story",
+    "summary": "Add system maintenance mode",
+    "description": "Implement maintenance mode functionality with customizable maintenance page and automatic user notifications.",
+    "status": "Open",
+    "fixVersion": "v2.5.0",
+    "productionReleaseDate": "2024-12-10",
+    "comments": [
+      {
+        "author": "kyle.garcia@company.com",
+        "date": "2024-10-09",
+        "text": "Design approved. Scheduled for development in next sprint."
+      }
+    ]
+  },
+  {
+    "key": "RDE-32",
+    "issueType": "Story",
+    "summary": "Implement webhook support",
+    "description": "Add webhook functionality to allow external systems to receive real-time notifications of system events and data changes.",
+    "status": "Development in Progress",
+    "fixVersion": "v2.4.0",
+    "productionReleaseDate": "2024-11-15",
+    "comments": [
+      {
+        "author": "laura.rodriguez@company.com",
+        "date": "2024-10-18",
+        "text": "Webhook framework 60% complete. Testing with sample integrations."
+      }
+    ]
+  },
+  {
+    "key": "RDE-33",
+    "issueType": "Story",
+    "summary": "Add bulk operations support",
+    "description": "Implement bulk edit, delete, and update operations for improved efficiency when managing large datasets.",
+    "status": "Dev Completed",
+    "fixVersion": "v2.3.0",
+    "productionReleaseDate": "2024-10-20",
+    "comments": [
+      {
+        "author": "matthew.lee@company.com",
+        "date": "2024-10-12",
+        "text": "Bulk operations implemented with progress indicators. Ready for QA."
+      }
+    ]
+  },
+  {
+    "key": "RDE-34",
+    "issueType": "Story",
+    "summary": "Create API documentation portal",
+    "description": "Build comprehensive API documentation with interactive examples, authentication guides, and code samples in multiple languages.",
+    "status": "Open",
+    "fixVersion": "v2.4.0",
+    "productionReleaseDate": "2024-11-15",
+    "comments": [
+      {
+        "author": "nicole.harris@company.com",
+        "date": "2024-10-11",
+        "text": "Documentation structure defined. Starting content creation."
+      }
+    ]
+  },
+  {
+    "key": "RDE-35",
+    "issueType": "Story",
+    "summary": "Implement lazy loading for images",
+    "description": "Add lazy loading functionality for images to improve page load performance and reduce bandwidth usage.",
+    "status": "In Production",
+    "fixVersion": "v2.2.0",
+    "productionReleaseDate": "2024-09-12",
+    "comments": [
+      {
+        "author": "oscar.clark@company.com",
+        "date": "2024-09-11",
+        "text": "Lazy loading active. Page load times improved by 30%."
+      }
+    ]
+  },
+  {
+    "key": "RDE-36",
+    "issueType": "Story",
+    "summary": "Add calendar integration",
+    "description": "Integrate with Google Calendar and Outlook to sync events and deadlines with external calendar applications.",
+    "status": "Development in Progress",
+    "fixVersion": "v2.4.0",
+    "productionReleaseDate": "2024-11-15",
+    "comments": [
+      {
+        "author": "patricia.lewis@company.com",
+        "date": "2024-10-19",
+        "text": "Google Calendar integration complete. Working on Outlook integration."
+      }
+    ]
+  },
+  {
+    "key": "RDE-37",
+    "issueType": "Story",
+    "summary": "Create system configuration management",
+    "description": "Build interface for managing system-wide configuration settings with validation and rollback capabilities.",
+    "status": "QA Completed",
+    "fixVersion": "v2.3.0",
+    "productionReleaseDate": "2024-10-20",
+    "comments": [
+      {
+        "author": "quincy.walker@company.com",
+        "date": "2024-10-16",
+        "text": "Configuration management tested thoroughly. All rollback scenarios working."
+      }
+    ]
+  },
+  {
+    "key": "RDE-38",
+    "issueType": "Story",
+    "summary": "Implement progressive web app features",
+    "description": "Add PWA capabilities including offline functionality, push notifications, and app-like installation experience.",
+    "status": "Open",
+    "fixVersion": "v2.5.0",
+    "productionReleaseDate": "2024-12-10",
+    "comments": [
+      {
+        "author": "rebecca.hall@company.com",
+        "date": "2024-10-10",
+        "text": "PWA requirements analyzed. Service worker strategy defined."
+      }
+    ]
+  },
+  {
+    "key": "RDE-39",
+    "issueType": "Story",
+    "summary": "Add data import/export wizard",
+    "description": "Create step-by-step wizard for importing and exporting data with field mapping, validation, and progress tracking.",
+    "status": "Closed",
+    "fixVersion": "v2.2.0",
+    "productionReleaseDate": "2024-09-12",
+    "comments": [
+      {
+        "author": "samuel.allen@company.com",
+        "date": "2024-09-09",
+        "text": "Import/export wizard complete. Users finding it very intuitive."
+      }
+    ]
+  },
+  {
+    "key": "RDE-40",
+    "issueType": "Story",
+    "summary": "Implement error tracking and reporting",
+    "description": "Add comprehensive error tracking system with automatic error reporting, categorization, and resolution tracking.",
+    "status": "Development in Progress",
+    "fixVersion": "v2.4.0",
+    "productionReleaseDate": "2024-11-15",
+    "comments": [
+      {
+        "author": "tiffany.young@company.com",
+        "date": "2024-10-17",
+        "text": "Error capture system working. Building admin dashboard for error management."
+      }
+    ]
+  },
+  {
+    "key": "RDE-41",
+    "issueType": "Feature",
+    "summary": "User Management Platform",
+    "description": "Comprehensive user management platform including user registration, profile management, authentication, authorization, and user activity tracking. This feature encompasses the complete user lifecycle management system.",
+    "status": "Closed",
+    "fixVersion": "v2.0.0",
+    "productionReleaseDate": "2024-07-01",
+    "comments": [
+      {
+        "author": "project.manager@company.com",
+        "date": "2024-06-25",
+        "text": "User management platform successfully deployed. All sub-features working correctly."
+      },
+      {
+        "author": "qa.lead@company.com",
+        "date": "2024-06-30",
+        "text": "Comprehensive testing completed. Platform ready for production use."
+      }
+    ]
+  },
+  {
+    "key": "RDE-42",
+    "issueType": "Feature",
+    "summary": "Analytics and Reporting Engine",
+    "description": "Advanced analytics and reporting system providing real-time dashboards, custom report generation, data visualization, and business intelligence capabilities with role-based data access.",
+    "status": "In Production",
+    "fixVersion": "v2.1.0",
+    "productionReleaseDate": "2024-08-15",
+    "comments": [
+      {
+        "author": "analytics.lead@company.com",
+        "date": "2024-08-10",
+        "text": "Analytics engine performing excellently. Report generation times under 2 seconds."
+      }
+    ]
+  },
+  {
+    "key": "RDE-43",
+    "issueType": "Feature",
+    "summary": "Mobile Application Suite",
+    "description": "Complete mobile application development including iOS and Android native apps with offline synchronization, push notifications, and feature parity with web platform.",
+    "status": "Development in Progress",
+    "fixVersion": "v3.0.0",
+    "productionReleaseDate": "2025-01-20",
+    "comments": [
+      {
+        "author": "mobile.lead@company.com",
+        "date": "2024-10-15",
+        "text": "iOS app 75% complete. Android app 60% complete. Both apps progressing well."
+      },
+      {
+        "author": "ui.designer@company.com",
+        "date": "2024-10-18",
+        "text": "Mobile UI designs approved. Consistent experience across platforms."
+      }
+    ]
+  },
+  {
+    "key": "RDE-44",
+    "issueType": "Feature",
+    "summary": "Advanced Security Framework",
+    "description": "Enterprise-grade security implementation including multi-factor authentication, encryption at rest and in transit, security audit trails, compliance reporting, and threat detection.",
+    "status": "QA Completed",
+    "fixVersion": "v2.3.0",
+    "productionReleaseDate": "2024-10-20",
+    "comments": [
+      {
+        "author": "security.architect@company.com",
+        "date": "2024-10-14",
+        "text": "Security framework passed all penetration tests. Ready for production deployment."
+      },
+      {
+        "author": "compliance.officer@company.com",
+        "date": "2024-10-17",
+        "text": "All compliance requirements met. Documentation complete."
+      }
+    ]
+  },
+  {
+    "key": "RDE-45",
+    "issueType": "Feature",
+    "summary": "API Gateway and Microservices Architecture",
+    "description": "Implementation of microservices architecture with API gateway, service discovery, load balancing, circuit breakers, and comprehensive API management capabilities.",
+    "status": "Dev Completed",
+    "fixVersion": "v2.4.0",
+    "productionReleaseDate": "2024-11-15",
+    "comments": [
+      {
+        "author": "architect@company.com",
+        "date": "2024-10-16",
+        "text": "Microservices architecture complete. All services communicating properly through API gateway."
+      }
+    ]
+  },
+  {
+    "key": "RDE-46",
+    "issueType": "Feature",
+    "summary": "Workflow Automation Engine",
+    "description": "Powerful workflow automation system allowing users to create custom workflows, automate business processes, set up triggers and actions, and manage complex approval processes.",
+    "status": "Open",
+    "fixVersion": "v3.0.0",
+    "productionReleaseDate": "2025-01-20",
+    "comments": [
+      {
+        "author": "product.owner@company.com",
+        "date": "2024-10-12",
+        "text": "Workflow engine requirements finalized. High-priority feature for v3.0."
+      }
+    ]
+  },
+  {
+    "key": "RDE-47",
+    "issueType": "Feature",
+    "summary": "AI-Powered Recommendation System",
+    "description": "Machine learning-based recommendation engine providing personalized content suggestions, predictive analytics, and intelligent automation based on user behavior patterns.",
+    "status": "Open",
+    "fixVersion": "v3.1.0",
+    "productionReleaseDate": "2025-03-15",
+    "comments": [
+      {
+        "author": "ai.researcher@company.com",
+        "date": "2024-10-08",
+        "text": "ML models being trained. Initial recommendation algorithms showing promising results."
+      }
+    ]
+  },
+  {
+    "key": "RDE-48",
+    "issueType": "Feature",
+    "summary": "Integration Platform",
+    "description": "Comprehensive integration platform supporting REST APIs, webhooks, third-party service connectors, and custom integration development tools for seamless data exchange.",
+    "status": "Development in Progress",
+    "fixVersion": "v2.5.0",
+    "productionReleaseDate": "

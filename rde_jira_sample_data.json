@@ -56,20 +56,6 @@
         "text": "System performance improved by 25% since monitoring implementation."
       }
     ]
-  }
-]2024-08-15",
-    "comments": [
-      {
-        "author": "john.smith@company.com",
-        "date": "2024-07-20",
-        "text": "Initial implementation completed. Ready for testing."
-      },
-      {
-        "author": "sarah.jones@company.com",
-        "date": "2024-08-10",
-        "text": "QA testing passed. Ready for production deployment."
-      }
-    ]
   },
   {
     "key": "RDE-2",
